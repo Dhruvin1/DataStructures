@@ -1,4 +1,5 @@
 def quicksort(array):
+    # not so memory efficient
     less = []
     equal = []
     greater = []
